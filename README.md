@@ -1,5 +1,3 @@
-# Notlar
-
 ## Docker Image larını eklemek
 
     PostgreSQL
